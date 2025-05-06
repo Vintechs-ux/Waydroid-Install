@@ -1,7 +1,5 @@
 # Waydroid Installation Guide for Arch Linux
 
-![Waydroid Logo](https://waydro.id/images/waydroid-logo.png)
-
 A comprehensive guide to setting up Waydroid on Arch Linux for running Android applications seamlessly.
 
 ## Table of Contents
